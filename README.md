@@ -1,152 +1,135 @@
+<!-- ============== HEADER ============== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Achal%20Verma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Automation%20Builder%20%7C%20Problem%20Solver&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,40:1f6feb,100:00d9ff&height=210&section=header&text=Achal%20Verma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20Engineer%20%C2%B7%20Automation%20Builder%20%C2%B7%20Final-year%20BCA&descAlignY=54&descSize=18"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Final-year+BCA+(AI+%26+ML)+%40+GGSIPU;Building+Full-Stack+AI+Products;LLM-Powered+Pipelines+%26+Automation;Passionate+About+Clean%2C+Shippable+Code" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-### **Turning AI & Automation Ideas Into Shipping Products**
-
-*Final-year BCA (AI & Machine Learning) student building full-stack AI products, LLM-powered pipelines, and self-hosted automation systems. Focused on shipping real solutions that save real time.*
-
-</div>
-
----
-
-## 🛠️ **Technology Ecosystem**
-
-<details open>
-<summary><b>🤖 AI / ML & Generative AI</b></summary>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔄 Automation & Workflows</b></summary>
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-5A29E4?style=for-the-badge&logo=webhooks&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🚀 Frontend & DevOps</b></summary>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</details>
-
----
-
-## 🚀 **Featured Projects**
-
-| Project | What it does | Stack |
-| :------ | :----------- | :---- |
-| **📰 The Daily Brief** | Full-stack AI news aggregator — APScheduler pipeline ingests & dedupes 500+ RSS entries/run; Gemini summarizes across 3 personas for personalized digests. | `FastAPI` `Next.js` `PostgreSQL` `Gemini` |
-| **📸 AutoSharePics** | Self-hosted 3-stage n8n pipeline — syncs Drive photos, recognizes faces (CompreFace), auto-delivers each person their pics on WhatsApp at ~$3–5/mo. | `n8n` `CompreFace` `Docker` `PostgreSQL` |
-| **🔐 Indian Document Data Masking** | AI-powered detection & masking of sensitive data in Indian government documents. | `Python` `NLP` |
-
----
-
-## 🌐 **Professional Network**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/achal-verma825890276/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<br><sub><b>Professional Network</b></sub>
+<a href="https://github.com/achal2005">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=I+build+full-stack+AI+products;LLM+pipelines+that+actually+ship;Self-hosted+automation+at+~%245%2Fmonth;FastAPI+%C2%B7+n8n+%C2%B7+Docker+%C2%B7+Gemini" alt="typing" />
 </a>
-</td>
-<td align="center" width="25%">
-<a href="mailto:achalvermaofficial08@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-<br><sub><b>Get In Touch</b></sub>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 **GitHub Performance Metrics**
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=achal2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
-</td>
-<td>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achal2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Most Used Languages"/>
-</td>
-</tr>
-</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=achal2005&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=achal2005&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+<a href="https://www.linkedin.com/in/achal-verma825890276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:achalvermaofficial08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/New%20Delhi,%20India-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=achal2005&label=Profile%20views&color=00d9ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-### 💭 **Developer Insights**
+## 👋 Hey, I'm Achal
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+> Final-year **BCA (AI & Machine Learning)** student who likes shipping over theorizing.
+> I turn "wouldn't it be cool if…" ideas into deployed products — AI news engines, face-recognition
+> automations, document-privacy tools — usually held together with **Python, FastAPI, n8n and a lot of Docker**.
+> Currently chasing **agentic AI** and looking for an **AI/ML or AI Automation internship** where I can build real things.
+
+```yaml
+location:   New Delhi, India 🇮🇳
+education:  BCA — AI & ML, GGSIPU (Class of 2026)
+focus:      [ LLM pipelines, workflow automation, full-stack AI ]
+mindset:    "ship it, measure it, then make it cheaper"
+open_to:    AI/ML & AI Automation internships 🚀
+```
 
 ---
 
+## 🧰 Tech I Build With
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=achal2005&color=F85D7F&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,nextjs,ts,js,docker,git,github,vercel,sklearn&theme=dark&perline=11" alt="skills"/>
 
 <br/><br/>
 
-✨ Open to AI/ML & AI Automation internships — let's build something amazing together! ✨
+<!-- specialty tools skillicons doesn't carry -->
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/CompreFace-0A0A0A?style=flat-square&logo=opencv&logoColor=white"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+---
+
+## 🚀 Things I've Shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 [The Daily Brief](https://github.com/achal2005/NEWS-AI-BACKEND)
+Full-stack AI news engine. An APScheduler pipeline ingests & dedupes **500+ RSS entries/run** into Postgres, then **Google Gemini** writes summaries tuned to **3 reader personas**. Google OAuth2, shipped on Vercel + Render.
+
+`FastAPI` · `Next.js` · `PostgreSQL` · `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 [AutoSharePics](https://github.com/achal2005/Auto-share-pics-)
+A self-hosted **n8n** pipeline that pulls photos from Drive, recognizes friends with **face recognition**, and DMs each person their own pics on WhatsApp — idempotent, GDPR-aware, **~$3–5/month**.
+
+`n8n` · `CompreFace` · `Docker` · `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [Document Data Masking](https://github.com/achal2005/indian-document-data-masking)
+AI-powered detection & masking of sensitive fields in **Indian government documents** — privacy by default.
+
+`Python` · `NLP` · `Privacy`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 More on the way
+Exploring **agentic pipelines** with LangChain & AutoGen. Pinned repos below are the latest — watch this space.
+
+`LangChain` · `AutoGen` · `Agents`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 By the Numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=achal2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00d9ff&icon_color=00d9ff" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achal2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00d9ff" alt="langs"/>
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=achal2005&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=achal2005&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d9ff&line=1f6feb&point=ffffff&area=true" width="95%" alt="activity"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=achal2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 One for the road
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+
+<br/>
+
+**Open to AI/ML & AI Automation internships — let's build something worth shipping.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,60:1f6feb,100:0b1020&height=120&section=footer"/>
+
+</div>
