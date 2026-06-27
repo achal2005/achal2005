@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,40:1f6feb,100:00d9ff&height=210&section=header&text=Achal%20Verma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20Engineer%20%C2%B7%20Automation%20Builder%20%C2%B7%20Final-year%20BCA&descAlignY=54&descSize=18"/>
 
 <a href="https://github.com/achal2005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=I+build+full-stack+AI+products;LLM+pipelines+that+actually+ship;Self-hosted+automation+at+~%245%2Fmonth;FastAPI+%C2%B7+n8n+%C2%B7+Docker+%C2%B7+Gemini" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=I+build+full-stack+AI+products;LLM+pipelines+that+actually+ship;FastAPI+%C2%B7+n8n+%C2%B7+Docker+%C2%B7+Gemini" alt="typing" />
 </a>
 
 <br/>
